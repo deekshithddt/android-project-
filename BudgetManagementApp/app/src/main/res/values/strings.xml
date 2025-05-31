@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Budget Management App</string>
+
+    <!-- Define other strings -->
+    <string name="category_food">Food</string>
+    <string name="category_transport">Transport</string>
+    <string name="category_entertainment">Entertainment</string>
+    <string name="category_others">Others</string>
+    <string name="add_transaction">Add Transaction</string>
+    <string name="total_amount_spent">Total Amount Spent: ₹</string>
+</resources>

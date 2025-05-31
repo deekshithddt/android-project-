@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primaryColor">#3F51B5</color>
+    <color name="secondaryColor">#FF9800</color>
+    <color name="incomeColor">#4CAF50</color>
+    <color name="expenseColor">#F44336</color>
+    <color name="foodColor">#FF5722</color>
+    <color name="transportColor">#03A9F4</color>
+    <color name="entertainmentColor">#9C27B0</color>
+    <color name="othersColor">#8BC34A</color>
+    <color name="background_light">#F0F4F9</color> <!-- Light background color -->
+    <color name="background_dark">#121212</color>  <!-- Dark background color -->
+    <color name="text_color">#2E3A59</color>
+    <color name="button_color">#4CAF50</color>
+    <color name="colorPrimary">#6200EE</color> <!-- Example color -->
+    <color name="colorPrimaryDark">#3700B3</color> <!-- Example color -->
+    <color name="colorAccent">#03DAC5</color> <!-- Example color -->
+
+
+</resources>

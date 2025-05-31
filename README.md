@@ -1,4 +1,4 @@
-# android-project-
+# android-project
 Trip Budget Planner
 # 💰 Android Budget Planner
 
